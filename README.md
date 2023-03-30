@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jthomas010323/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jthomas010323)](https://github.com/jthomas010323/github-readme-stats)
 <!--
 **jthomas010323/jthomas010323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
