@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-thomas369/) ![Portfolio](https://img.shields.io/badge/Portfolio-red?color=red&link=https%3A%2F%2Fjthomas010323.github.io%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-thomas369/)![Static Badge](https://img.shields.io/badge/Portfolio-red?color=red&link=https%3A%2F%2Fjthomas010323.github.io%2F)
 
 
 # 💻 Tech Stack:
