@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a front-end website<br>👯 I’m looking to collaborate to build a full-stack website<br>🤝 I’m looking for help on how to be successful in full-stack development<br>🌱 I’m currently learning React and JavaScript<br>
+🔭 I’m currently working on redesigning my portfolio website<br>👯 I’m looking to collaborate to build a full-stack website<br>🤝 I’m looking for help on how to be successful in full-stack development<br>🌱 I’m currently learning more about Java Spring and NextJS<br>
 
 
 ## 🌐 Socials:
