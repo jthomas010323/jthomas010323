@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-thomas369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-thomas369/)  ![Static Badge](https://img.shields.io/badge/website-black?style=plastic&labelColor=blue&color=%231c1c22&link=https%3A%2F%2Fjustin-portfolio-chi.vercel.app%2F)
+
 
 
 # 💻 Tech Stack:
